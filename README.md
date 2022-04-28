@@ -4,8 +4,6 @@
 **RomainLLC/RomainLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as lead dev on inovative projects for local gov agencies and associations.
 - 🌱 I’m currently learning Solidity, Typescript and Rust
 - 👯 I’m looking to collaborate on any blockchain related project
