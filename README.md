@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m currently working as lead dev on inovative projects for local gov agencies and associations.
-- 🌱 I’m currently learning Solidity, Typescript and Rust
-- 👯 I’m looking to collaborate on any blockchain related project
+- 🌱 I’m currently learning ROS, Typescript and Rust
+- 👯 I’m looking to collaborate on any drone/robotics or blockchain related project
 - 💬 Ask me about Linux, Drupal, Pastell, iParapheur, Alfresco, CAS, Keycloak, LemonLDAP, Web3
 - 📫 How to reach me:  [mail](mailto:piactif@gmail.com) - [LinkedIn](https://www.linkedin.com/in/romain-leclerc-2021a5198/)
 - ⚡ Fun fact: i wish i could wear a long beard to look like a Linux guru
