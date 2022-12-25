@@ -4,11 +4,11 @@
 **RomainLLC/RomainLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as lead dev on inovative projects for local gov agencies and associations.
+- 🔭 I’m currently working as CTO on inovative projects for local gov agencies and associations.
 - 🌱 I’m currently learning ROS, Typescript and Rust
-- 👯 I’m looking to collaborate on any drone/robotics or blockchain related project
+- 👯 I’m looking to collaborate on any gov, drone/robotics or blockchain related project
 - 💬 Ask me about Linux, Drupal, Pastell, iParapheur, Alfresco, CAS, Keycloak, LemonLDAP, Web3
-- 📫 How to reach me:  [mail](mailto:piactif@gmail.com) - [LinkedIn](https://www.linkedin.com/in/romain-leclerc-2021a5198/)
+- 📫 How to reach me:  [mail](mailto:piactif@gmail.com) - [LinkedIn](https://www.linkedin.com/in/romain-llc/)
 - ⚡ Fun fact: i wish i could wear a long beard to look like a Linux guru
 
 <!--
