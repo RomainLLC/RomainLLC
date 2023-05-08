@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m currently working as CTO on inovative projects for local gov agencies and associations.
-- 🌱 I’m currently learning ROS, Typescript and Rust
+- 🌱 I’m currently learning ROS2, OpenAI, Typescript and Rust
 - 👯 I’m looking to collaborate on any gov, drone/robotics or blockchain related project
-- 💬 Ask me about Linux, Drupal, Pastell, iParapheur, Alfresco, CAS, Keycloak, LemonLDAP, Web3
+- 💬 Ask me about Linux, Drupal, SSO, ROS2, Foxglove studio, Alfresco, LemonLDAP, Web3
 - 📫 How to reach me:  [mail](mailto:piactif@gmail.com) - [LinkedIn](https://www.linkedin.com/in/romain-llc/)
 - ⚡ Fun fact: i wish i could wear a long beard to look like a Linux guru
 
